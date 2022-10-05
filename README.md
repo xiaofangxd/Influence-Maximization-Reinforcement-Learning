@@ -1,8 +1,8 @@
 # A Collection of Main Papers on Influence maximization with Reinforcement Learning
 
 - [Influence maximization](#Influence maximization)
-  - [Evolutionary Algorithm](#Evolutionary Algorithm)
-  - [Reinforcement Learning](#Reinforcement Learning)
+  - [Evolutionary Algorithm](#Evolutionary-Algorithm)
+  - [Reinforcement Learning](#Reinforcement-Learning)
 
 ----------
 
