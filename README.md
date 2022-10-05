@@ -14,13 +14,14 @@
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Influence Maximization in Complex Networks by Using Evolutionary Deep Reinforcement Learning | TETCI | 2022 | _Ma et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9679820)] |  |
 
+
 # Deep Learning
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Influence maximization in social networks using transfer learning via graph-based LSTM | ESWA  | 2023 | _Kumar et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0957417422017882)] |  |
 | Influence maximization in social networks using graph embedding and graph neural network | IS  | 2022 | _Kumar et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0020025522006697)] |  |
 | Network Dynamic GCN Influence Maximization Algorithm With Leader Fake Labeling Mechanism | TCSS  | 2022 | _Zhang et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9848423)] |  |
-| Influence maximization in social networks using transfer learning via graph-based LSTM | ESWA  | 2023 | _Kumar et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0957417422017882)] |  |
 | A new approach for evaluating node importance in complex networks via deep learning methods | NC  | 2022 | _Zhang et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0925231222005392)] |  |
 | Identification of spreading influence nodes via multi-level structural attributes based on the graph convolutional network | ESWA  | 2022 | _Ou et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0957417422008405)] [[code](https://github.com/OuYangg/Multi-channel-RCNN)] |  |
 
@@ -45,7 +46,6 @@
 | A promotive structural balance model based on reinforcement learning for signed social networks | NCA | 2022 | _Yang et al._ | [[paper](https://link.springer.com/article/10.1007/s00521-022-07298-y)] |  |
 | Addressing Competitive Influence Maximization on Unknown Social Network with Deep Reinforcement Learning | ASONAM | 2020 | _Ali et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9381471)] |  |
 | Provably Efficient Reinforcement Learning for Online Adaptive Influence Maximization | arkiv | 2022 | _Huang et al._ | [[paper](https://arxiv.org/abs/2206.14846)] |  |
-| Seeds Selection for Influence Maximization Based on Device-to-Device Social Knowledge by Reinforcement Learning | KSEM | 2020 | _Tong et al._ | [[paper](https://link.springer.com/chapter/10.1007/978-3-030-55393-7_15)] |  |
 | Reinforcement-Learning-Based Competitive Opinion Maximization Approach in Signed Social Networks | TCSS  | 2022 | _He et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9611781)] |  |
 | Online influence maximization in the absence of network structure | KBS  | 2022 | _He et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0950705122008371)] |  |
 | Efficient information diffusion in time-varying graphs through deep reinforcement learning | WWW  | 2022 | _Mendonca et al._ | [[paper](https://link.springer.com/content/pdf/10.1007/s11280-021-00998-w.pdf)] [[code](https://github.com/MatheusMRFM/STIM)] |  |
@@ -54,6 +54,7 @@
 | Contingency-aware influence maximization: A reinforcement learning approach | UAI  | 2021 | _Chen et al._ | [[paper](https://proceedings.mlr.press/v161/chen21b.html)] [[code](https://github.com/Haipeng-Chen/RL4IM-Contingency)] |  |
 | NEDRL-CIM:Network Embedding Meets Deep Reinforcement Learning to Tackle Competitive Influence Maximization on Evolving Social Networks | DSAA | 2021 | _Ali et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9564111)] |  |
 | Multiple Agents Reinforcement Learning Based Influence Maximization in Social Network Services | ICSOC | 2021 | _Liu et al._ | [[paper](https://link.springer.com/chapter/10.1007/978-3-030-91431-8_27)] |  |
+| Seeds Selection for Influence Maximization Based on Device-to-Device Social Knowledge by Reinforcement Learning | KSEM | 2020 | _Tong et al._ | [[paper](https://link.springer.com/chapter/10.1007/978-3-030-55393-7_15)] |  |
 
 **Disclaimer**
 
