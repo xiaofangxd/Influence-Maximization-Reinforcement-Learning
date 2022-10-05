@@ -1,6 +1,6 @@
-# A Collection of Main Papers on Influence maximization with Deep Learning
+# A Collection of Main Papers on Influence Maximization with Deep Learning
 
-- [Influence maximization](#Influence-maximization)
+- [Influence Maximization](#Influence-Maximization)
   - [Evolutionary Algorithm](#Evolutionary-Algorithm)
   - [Deep Learning](#Deep-Learning)
   - [Reinforcement Learning](#Reinforcement-Learning)
