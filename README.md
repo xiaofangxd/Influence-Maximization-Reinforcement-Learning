@@ -19,6 +19,8 @@
 
 | Paper Title                                                  | Venue | Year | Authors        | Materials                                                    | Comment                                                      |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| A Survey on Influence Maximization: From an ML-Based Combinatorial Optimization | ACM TKDD  | 2023 | _Li et al._ | [[paper](https://dl.acm.org/doi/abs/10.1145/3604559)] |  |
+| Deep Graph Representation Learning and Optimization for Influence Maximization | ICML  | 2023 | _Ling et al._ | [[paper](https://proceedings.mlr.press/v202/ling23b.html)] |  |
 | Influence maximization in social networks using transfer learning via graph-based LSTM | ESWA  | 2023 | _Kumar et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0957417422017882)] |  |
 | Influence maximization in social networks using graph embedding and graph neural network | IS  | 2022 | _Kumar et al._ | [[paper](https://www.sciencedirect.com/science/article/pii/S0020025522006697)] |  |
 | Network Dynamic GCN Influence Maximization Algorithm With Leader Fake Labeling Mechanism | TCSS  | 2022 | _Zhang et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9848423)] |  |
@@ -31,6 +33,7 @@
 
 | Paper                                                  | Venue | Year | Authors        | Materials                                                    | Comment |
 | ------------------------------------------------------------ | ----- | ---- | -------------- | ------------------------------------------------------------ | ------- |
+| ToupleGDD: A Fine-Designed Solution of Influence Maximization by Deep Reinforcement Learning | TCSS  | 2023 | _Chen et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/10124236)] |  |
 | GraMeR: Graph Meta Reinforcement Learning for Multi-Objective Influence Maximization | arkiv  | 2022 | _Munikoti et al._ | [[paper](https://arxiv.org/abs/2205.14834)] [[code](https://anonymous.4open.science/r/InfluenceMaximization-Deep-QLearning-B20B/README.md)] |  |
 | PIANO: Influence Maximization Meets Deep Reinforcement Learning | TCSS  | 2022 | _Li et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9769766)] [[code](https://github.com/lihuixidian/PIANO)] |  |
 | Influence Maximization in Complex Networks by Using Evolutionary Deep Reinforcement Learning | TETCI | 2022 | _Ma et al._ | [[paper](https://ieeexplore.ieee.org/abstract/document/9679820)] |  |
